@@ -1,8 +1,0 @@
-flask
-flask_caching
-pandas
-gunicorn
-spacy
-sklearn
-word2number
-pdf2image
